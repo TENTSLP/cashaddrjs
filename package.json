@@ -1,7 +1,7 @@
 {
   "name": "cashaddrjs-slp",
   "version": "0.2.12",
-  "description": "SLP & Bitcoin Cash cashaddr address format support for Node.js and web browsers.",
+  "description": "TENTSLP cashaddr address format support for Node.js and web browsers.",
   "main": "src/cashaddr.js",
   "files": [
     "src/",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simpleledger/cashaddrjs.git"
+    "url": "https://github.com/TENTSLP/cashaddrjs"
   },
   "keywords": [
     "bitcoin",
@@ -34,9 +34,9 @@
   "author": "Emilio Almansi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/simpleledger/cashaddrjs/issues"
+    "url": "https://github.com/TENTSLP/cashaddrjs/issues"
   },
-  "homepage": "https://github.com/simpleledger/cashaddrjs#readme",
+  "homepage": "https://github.com/TENTSLP/cashaddrjs#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
